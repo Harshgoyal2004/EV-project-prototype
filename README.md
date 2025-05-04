@@ -37,8 +37,8 @@ The application uses three main datasets:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ev-market-analysis-prediction.git
-cd ev-market-analysis-prediction
+git clone https://github.com/Harshgoyal2004/EV-project-prototype.git
+cd EV-project-prototype
 
 # Install dependencies
 pip install -r requirements.txt
